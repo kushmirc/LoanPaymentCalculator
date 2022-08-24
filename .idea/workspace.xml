@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c5b5463-94ea-4f74-a454-687228bafaff" name="Changes" comment="" />
+    <list default="true" id="3c5b5463-94ea-4f74-a454-687228bafaff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/LoanPaymentCalculator/LoanPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoanPaymentCalculator/LoanPay.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661137453560</updated>
       <workItem from="1661137455109" duration="1114000" />
-      <workItem from="1661373998816" duration="2272000" />
+      <workItem from="1661373998816" duration="2576000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661137703942</created>
@@ -94,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661376681674</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="declare variable months to convert loanLength to months">
+      <created>1661376785259</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661376785259</updated>
+    </task>
+    <task id="LOCAL-00008" summary="declare variable monthlyBalance to convert the remainingBalance into months">
+      <created>1661376865158</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661376865158</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +142,8 @@
     <MESSAGE value="Add conditional to ensure positive loanLength and interestRate" />
     <MESSAGE value="Add conditional if downPayment is more than the loan amount" />
     <MESSAGE value="Add else to update remainingBalance after the down payment is deducted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add else to update remainingBalance after the down payment is deducted" />
+    <MESSAGE value="declare variable months to convert loanLength to months" />
+    <MESSAGE value="declare variable monthlyBalance to convert the remainingBalance into months" />
+    <option name="LAST_COMMIT_MESSAGE" value="declare variable monthlyBalance to convert the remainingBalance into months" />
   </component>
 </project>
