@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c5b5463-94ea-4f74-a454-687228bafaff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LoanPaymentCalculator/LoanPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoanPaymentCalculator/LoanPay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661137453560</updated>
       <workItem from="1661137455109" duration="1114000" />
-      <workItem from="1661373998816" duration="2576000" />
+      <workItem from="1661373998816" duration="5358000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661137703942</created>
@@ -110,7 +111,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661376865158</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="declare variable interest to calculate the interest due for the month">
+      <created>1661377063191</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661377063191</updated>
+    </task>
+    <task id="LOCAL-00010" summary="declare variable monthlyPayment to add teh monthlyBalance and interest">
+      <created>1661377156326</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661377156326</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Print the monthlyPayment amount">
+      <created>1661377227752</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661377227752</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +166,9 @@
     <MESSAGE value="Add else to update remainingBalance after the down payment is deducted" />
     <MESSAGE value="declare variable months to convert loanLength to months" />
     <MESSAGE value="declare variable monthlyBalance to convert the remainingBalance into months" />
-    <option name="LAST_COMMIT_MESSAGE" value="declare variable monthlyBalance to convert the remainingBalance into months" />
+    <MESSAGE value="declare variable interest to calculate the interest due for the month" />
+    <MESSAGE value="declare variable monthlyPayment to add teh monthlyBalance and interest" />
+    <MESSAGE value="Print the monthlyPayment amount" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print the monthlyPayment amount" />
   </component>
 </project>
