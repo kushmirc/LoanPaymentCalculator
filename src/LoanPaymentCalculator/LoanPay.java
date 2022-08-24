@@ -19,6 +19,7 @@ public class LoanPay {
             int remainingBalance = carLoan - downPayment;
             int months = loanLength * 12;
             int monthlyBalance = remainingBalance / months;
+            int interest = (monthlyBalance * interestRate)/100;
         }
 
     }
