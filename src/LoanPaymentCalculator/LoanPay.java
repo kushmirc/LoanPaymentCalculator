@@ -21,6 +21,7 @@ public class LoanPay {
             int monthlyBalance = remainingBalance / months;
             int interest = (monthlyBalance * interestRate)/100;
             int monthlyPayment = monthlyBalance + interest;
+            System.out.println(monthlyPayment);
         }
 
     }
